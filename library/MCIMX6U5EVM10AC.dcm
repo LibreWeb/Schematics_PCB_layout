@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCIMX6S5DVM10AC
+D Freescale i.MX6 Solo 1x ARM Cortex A-9 32-bit Application Processor - VPU - GPU - DDR3/LPDD2/NOR/NAND flash - HDMI - LCD - MIMP - LVDS - CMOS - High-speed USB - High-speed MMC/SDIO - Gigabyte Ehernet - CAN - ESAI - UART - I2C - I2S - PCI-e 2 - 
+K Freescale, Cortex-A9, Cortex, ARM, solo
+$ENDCMP
+#
+$CMP MCIMX6S7CVM08AC
+D Freescale i.MX6 Solo 1x ARM Cortex A-9 32-bit Application Processor - VPU - GPU - DDR3/LPDD2/NOR/NAND flash - HDMI - LCD - MIMP - LVDS - CMOS - High-speed USB - High-speed MMC/SDIO - Gigabyte Ehernet - CAN - ESAI - UART - I2C - I2S - PCI-e 2 - 
+K Freescale, Cortex-A9, Cortex, ARM, solo
+$ENDCMP
+#
+$CMP MCIMX6U5EVM10AC
+D Freescale i.MX6 DualLite 2x ARM Cortex A-9 64-bit Application Processor - VPU - GPU - DDR3/LPDD2/NOR/NAND flash - HDMI - LCD - MIMP - LVDS - CMOS - High-speed USB - High-speed MMC/SDIO - Gigabyte Ehernet - CAN - ESAI - UART - I2C - I2S - PCI-e 2 - 
+K Freescale, Cortex-A9, Cortex, ARM, duallite, dual
+$ENDCMP
+#
+#End Doc Library
